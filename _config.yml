@@ -2,7 +2,7 @@
 title:               PyC
 tagline:             'Python Cheatbook'
 description:         'Python Commands'
-url:                 https://heesangjin.github.io/
+url:                 https://rajasgs.github.io/pyc/
 baseurl:             ''
 paginate:            5
 permalink:           pretty
