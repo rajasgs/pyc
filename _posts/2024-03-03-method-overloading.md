@@ -1,5 +1,6 @@
 ---
-title: Python Commands
+layout: page
+title: Method Overloading
 ---
 
 / [Home](index.md)
@@ -7,7 +8,7 @@ title: Python Commands
 # Python Commands
 
 
-```
+{% highlight js %}
 class Calculator:
     # Method to add numbers with variable number of arguments
     def add(self, *args):
@@ -20,7 +21,7 @@ calc = Calculator()
 print(calc.add(10, 20))          # Outputs: 30
 print(calc.add(10, 20, 30))      # Outputs: 60
 print(calc.add(10, 20, 30, 40))  # Outputs: 100
-```
+{% endhighlight %}
 
 
 ```
